@@ -1,0 +1,10 @@
+2024-11-15 00:34:33,677 - [WARNING]:
+Информация о предупреждении: Неверный тип данных для объекта Runner
+Файл: E:\UrbanLesson\pythonProject\module_12\homework_12_4\tests_12_4.py
+Функция: test_run
+
+2024-11-15 00:34:33,677 - [WARNING]:
+Информация о предупреждении: Неверная скорость для Runner
+Файл: E:\UrbanLesson\pythonProject\module_12\homework_12_4\tests_12_4.py
+Функция: test_walk
+
